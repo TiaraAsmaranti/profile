@@ -13,15 +13,15 @@ body {
 }
 /* LEFT SIDE */
 .left-side {
-    background-color: yellow;
+    background-color: #EBE4D1;
 }
 .left-container {
     margin-top: 600px;
     margin-left: 100px;
 }
 .left-title-box {
-    background-color: black;
-    color: white;
+    background-color: #E55604
+    color: #000;
     width: 220px;
     padding-left: 20px;
     padding-top: 5px;
@@ -42,15 +42,15 @@ body {
     text-decoration: none;
 }
 .link-list:link {
-    color: black;
+    color: #E55604;
 }
 .link-list:visited {
-    color: black;
+    color: #E55604;
 }
 .left-list-dot {
     height: 50px;
     width: 10px;
-    background-color: black;
+    background-color: #E55604;
 }
 .left-list-icon {
     width: 50px;
@@ -69,7 +69,7 @@ body {
     font-size: 23px;
     font-weight: bold;
     border-bottom-style: solid;
-    border-color: white;
+    border-color: #E55604;
 }
 .left-list-time {
     font-weight: bold;
@@ -81,19 +81,19 @@ body {
 }
 .left-subject-container {
     width: 380px;
-    color: #000;
-    background-color: #f1f1f1;
+    color: #E55604;
+    background-color: #26577C;
 }
 .left-subject-value {
     padding: 0.01em 16px;
     text-align: center;
-    color: #fff;
-    background-color: #000;
+    color: #000;
+    background-color: #E55604;
 }
 /* RIGHT SIDE */
 .right-side {
-    background-color: black;
-    color: white;
+    background-color: #B4B4B3;
+    color: #26577C;
 }
 .name-container {
     margin-top: 150px;
@@ -101,7 +101,7 @@ body {
 }
 .name-profile {
     width: 700px;
-    background-color: yellow;
+    background-color: #26577C;
     text-align: left;
     font-size: 60px;
     font-weight: bold;
@@ -112,7 +112,7 @@ body {
 .name-profile-text {
     margin-left: 15px;
     flex-grow: 0;
-    color: black;
+    color: #EBE4D1;
 }
 .name-profile-divider-master {
     flex-grow: 1;
@@ -120,17 +120,17 @@ body {
 }
 .name-profile-divider {
     height: 10px;
-    background-color: black;
+    background-color: #EBE4D1;
 }
 .name-profile-divider-first {
     margin-bottom: 10px;
     height: 5px;
-    background-color: white;
+    background-color: #E55604;
 }
 .name-profile-divider-last {
     margin-top: 10px;
     height: 5px;
-    background-color: white;
+    background-color: #E55604;
 }
 .nick-profile {
     text-align: left;
@@ -167,8 +167,8 @@ body {
     margin-top: 105px;
 }
 .right-title-box {
-    background-color: white;
-    color: black;
+    background-color: #26577C;
+    color: #EBE4D1;
     width: 400px;
     padding-left: 50px;
     padding-top: 5px;
@@ -183,13 +183,13 @@ body {
     font-size: 23px;
     font-weight: bold;
     margin-top: 25px;
-    color: yellow;
+    color: #E55604;
 }
 .right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
-    border-color: yellow;
+    border-color: #E55604;
     font-weight: bold;
 }
 .right-value-text {
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: yellow;
+    color: #E55604;
 }
 .right-value-item {
     width: 300px;
@@ -216,7 +216,7 @@ body {
     text-align: -webkit-right;
 }
 .sosmed-content {
-    background-color: yellow;
+    background-color: #26577C;
     text-align: left;
     font-size: 25px;
     font-weight: bold;
@@ -227,7 +227,7 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color: black;
+    color: #EBE4D1;
     display: flex;
 }
 .sosmed-text {
@@ -241,15 +241,15 @@ body {
 }
 .sosmed-divider {
     height: 8px;
-    background-color: black;
+    background-color: #EBE4D1;
 }
 .sosmed-divider-first {
     margin-bottom: 10px;
     height: 3px;
-    background-color: white;
+    background-color: #E55604;
 }
 .sosmed-divider-last {
     margin-top: 10px;
     height: 3px;
-    background-color: white;
+    background-color: #E55604;
 }
